@@ -35,7 +35,7 @@ Se llevaron a cabo los siguientes análisis comparativos entre las cuatro tienda
 - Calificación Promedio: Calculo y comparación de la satisfacción promedio de los clientes basada en sus calificaciones.
 - Productos Más/Menos Vendidos: Identificación de los productos específicos con mayor y menor volumen de ventas (unidades) en cada tienda.
 - Costo de Envío Promedio: Comparación del gasto promedio en envíos por transacción para cada tienda.
-- Análisis Geográfico (Opcional): Exploración de la distribución geográfica de las ventas utilizando coordenadas de latitud y longitud para identificar posibles patrones espaciales.
+
 
 # Hallazgos Importantes y Vistas
 
